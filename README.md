@@ -1,2 +1,2 @@
 # SQL
- Scripts e etc SQL 
+ Vários scripts para SQL de uso diverso. 
