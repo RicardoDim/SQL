@@ -1,3 +1,8 @@
+/*
+Reorganizar índices: Se a fragmentação do índice for baixa (geralmente entre 10% e 30%), pode ser suficiente reorganizá-lo, o que compacta as páginas de dados sem recriar todo o índice.
+Reconstruir índices: Quando a fragmentação for alta (acima de 30%), é recomendável recriar o índice. Isso elimina fragmentação e melhora o desempenho de leitura, mas é um processo mais intensivo.
+*/
+
 USE [nome banco]
 GO
 
